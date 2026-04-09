@@ -1,7 +1,7 @@
 -- ============================================================
 -- QueryOptBench - 50 Bad Queries
--- Yashraj Singh | Roll No. 2328058 | B.Tech CSE Semester 6
--- CAISc 2026 | PostgreSQL (Neon Serverless)
+-- Yashraj Singh 
+-- PostgreSQL (Neon Serverless)
 -- ============================================================
 -- Each query is intentionally bad. Anti-patterns are labelled.
 -- Run schema.sql first before testing any of these.
