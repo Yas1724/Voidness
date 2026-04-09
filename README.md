@@ -78,4 +78,4 @@ EXPLAIN (ANALYZE, BUFFERS, FORMAT TEXT) <paste query here>;
 
 ---
 
-*Submitted as part of CAISc 2026 Research Proposal — B.Tech CSE Semester 6, KIIT University*
+*Submitted as part of CAISc 2026 Research Proposal — B.Tech CSSE Semester 6, KIIT University*
